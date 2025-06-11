@@ -1,3 +1,115 @@
-body{
-  background: grey;
+main h1{
+    text-align: center;
 }
+
+h2{
+color: rgb(98, 0, 128);
+    text-align: center;
+}
+
+
+nav {
+    text-align: center;
+    background-color: #ff9800;
+    padding: 20px;
+}
+
+nav a{
+    color: red;
+    font-size: 20px;
+    text-decoration: none;
+    border: 2px solid green;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+div {
+    border: 3px solid #e6ee9c;
+    border-radius: 100px;
+    padding: 100px;
+    padding-bottom: 10px;
+    padding-top: 1px;
+    font-size: 30px;
+    background-color:  #e6ee9c;
+    margin: 20px;
+}
+body{
+    background-color: #dfcfe6;
+}
+p{
+
+    color:#388e3c;
+}
+
+.heard {border: 3px solid #ff9800;
+    border-radius: 100px;
+    padding: 100px;
+    padding-bottom: 10px;
+    padding-top: 1px;
+    font-size: 30px;
+    background-color:  #ed9cee;
+    margin: 20px;
+}
+
+.nurku {
+    border: 3px solid #ff9800;
+    border-radius: 100px;
+    padding: 100px;
+    padding-bottom: 10px;
+    padding-top: 1px;
+    font-size: 30px;
+    background-color:  #ffbb00;
+    margin: 20px;
+}
+ .mozg{
+    border: 3px solid #ff9800;
+    border-radius: 100px;
+    padding: 100px;
+    padding-bottom: 10px;
+    padding-top: 1px;
+    font-size: 30px;
+    background-color:  #edf95fe1; 
+    margin: 20px
+}
+
+.pechinka{
+border: 3px solid #ff9800;
+    border-radius: 100px;
+    padding: 100px;
+    padding-bottom: 10px;
+    padding-top: 1px;
+    font-size: 30px;
+    background-color:  #00ff91e1; 
+    margin: 20px
+
+}
+.legeni
+{
+border: 3px solid #ff9800;
+    border-radius: 100px;
+    padding: 100px;
+    padding-bottom: 10px;
+    padding-top: 1px;
+    font-size: 30px;
+    background-color:  #b7ff00e1; 
+    margin: 20px;
+}
+.oko{
+border: 3px solid #ff9800;
+    border-radius: 100px;
+    padding: 100px;
+    padding-bottom: 10px;
+    padding-top: 1px;
+    font-size: 30px;
+    background-color:  #7bc1f6e1; 
+    margin: 20px;
+}
+
+.kishkano {border: 3px solid #ff9800;
+    border-radius: 100px;
+    padding: 100px;
+    padding-bottom: 10px;
+    padding-top: 1px;
+    font-size: 30px;
+    background-color:  #cdf67be1; 
+    margin: 20px;}
